@@ -1,6 +1,3 @@
-## Port Container Management System
-
-This project is a simple Java console application that simulates managing containers and ships at a port using stack and queue data structures.
 
 ### Features
 - **Container Stack (LIFO):** store containers arriving from trucks.
