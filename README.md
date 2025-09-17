@@ -1,5 +1,5 @@
 
-### Features
+### This Activity Featured
 - **Container Stack (LIFO):** store containers arriving from trucks.
 - **Ship Queue (FIFO):** register arriving ships waiting to be loaded.
 - **Loading:** top container is loaded onto the front ship.
