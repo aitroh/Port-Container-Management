@@ -1,24 +1,20 @@
-Features
+## Port Container Management System
 
-Container Stack (LIFO): store containers arriving from trucks.
+This project is a simple Java console application that simulates managing containers and ships at a port using stack and queue data structures.
 
-Ship Queue (FIFO): register arriving ships waiting to be loaded.
+### Features
+- **Container Stack (LIFO):** store containers arriving from trucks.
+- **Ship Queue (FIFO):** register arriving ships waiting to be loaded.
+- **Loading:** top container is loaded onto the front ship.
 
-Loading: top container is loaded onto the front ship.
-
-How it works
-
-Store container (push): add a new container with ID, description, and weight.
-
-View containers: display containers from top → bottom.
-
-Register ship (enqueue): add a new ship with name and captain.
-
-View ships: display ships from front → rear.
-
-Load next ship: pop one container and poll one ship, showing which container was loaded onto which ship.
-
-Exit: close the program.
+### How it works
+- **Store container (push):** add a new container with ID, description, and weight.  
+- **View containers:** display containers from top → bottom.  
+- **Register ship (enqueue):** add a new ship with name and captain.  
+- **View ships:** display ships from front → rear.  
+- **Load next ship:** pop one container and poll one ship, showing which container was loaded onto which ship.  
+- **Exit:** close the program.
+  
 
 
 
